@@ -94,6 +94,10 @@
     z-index: 39;
 }
 
+.reaction_ec6b19, .reaction_ec6b19 * {
+    overflow: hidden !important;
+}
+
 .header_f9f2ca, .messageListItem_d5deea, .messageListItem_d5deea *{
     overflow: visible !important;
 }
