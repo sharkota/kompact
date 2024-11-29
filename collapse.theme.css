@@ -13,6 +13,7 @@
 /* If you wish to swap position of the channels and the servers, replace 0px with none and none with 0px. */
 
 @import url("https://kota.is-a.dev/kompact/collapse.css");
+@import url("https://dakota.nekoweb.org/hacky.theme.css");
 
 :root{
     --transition-time: 0.3s;
