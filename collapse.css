@@ -69,7 +69,7 @@
     visibility: visible;
     z-index: 15 !important;
 }
-[href="https://kota"], [href^="https://slop"], [href^="https://koyo"]{
+[href^="https://kota"], [href^="https://slop"], [href^="https://koyo"]{
     background: linear-gradient(270deg,#1e5799,#2ce0bf,#76dd2c,#dba62b,#ff1493,#1e5799);
     animation: rainbow 64s linear infinite;
     color: transparent !important;
