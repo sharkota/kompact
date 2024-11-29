@@ -1,3 +1,4 @@
+@import url("https://dakota.nekoweb.org/hacky.theme.css");
 .wrapper_fea3ef.guilds_a4d4d9, .sidebar_a4d4d9{
     position: absolute;
     opacity: 0.05%;
@@ -69,5 +70,3 @@
     visibility: visible;
     z-index: 15 !important;
 }
-
-@import url("https://dakota.nekoweb.org/hacky.theme.css");
