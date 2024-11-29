@@ -1,18 +1,18 @@
 /**
- * @name Hoverable Sidebars
+ * @name kompact
  * @author Sharkota
  * @authorLink https://github.com/sharkota
  * @description Hoverable Sidebars
  * @license GPL-3.0
  * @version 1.0
- * @source https://github.com/sharkota/Hoverable-Discord-Theme
+ * @source https://github.com/sharkota/kompact
  * @donate $DakotaWarrenWood
 */
 
 /* Smooth transitions require hardware acceleration to look good, if you prefer not to use them set "transition-time" var to 0*/
 /* If you wish to swap position of the channels and the servers, replace 0px with none and none with 0px. */
 
-@import url("https://kota.is-a.dev/Hoverable-Discord-Theme/collapse.css");
+@import url("https://kota.is-a.dev/kompact/collapse.css");
 
 :root{
     --transition-time: 0.3s;

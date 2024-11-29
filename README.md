@@ -1,4 +1,4 @@
-# Hoverable-Discord-Theme
+# kompact
 ### Hoverable Sidebars for a more minimal discord.
 
 ## Installation
@@ -12,7 +12,7 @@
 2. Click Open Themes Folder
 3. Download the CSS file below
 ```
-https://kota.is-a.dev/Hoverable-Discord-Theme/collapse.theme.css
+https://kota.is-a.dev/kompact/collapse.theme.css
 ```
 4. Drop the file into the "themes" folder
 5. Click Load Missing Themes
@@ -22,7 +22,7 @@ https://kota.is-a.dev/Hoverable-Discord-Theme/collapse.theme.css
 1. Go to User Settings -> Vencord -> Themes -> Online Themes
 2. Add below URL to Online Themes section
 ```
-https://kota.is-a.dev/Hoverable-Discord-Theme/collapse.theme.css
+https://kota.is-a.dev/kompact/collapse.theme.css
 ```
 
 ## BetterDiscord
@@ -30,7 +30,7 @@ https://kota.is-a.dev/Hoverable-Discord-Theme/collapse.theme.css
 2. Click Open Themes Folder
 3. Download the CSS file below
 ```
-https://kota.is-a.dev/Hoverable-Discord-Theme/collapse.theme.css
+https://kota.is-a.dev/kompact/collapse.theme.css
 ```
 4. Drag the file into that folder.
 
