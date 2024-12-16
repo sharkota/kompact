@@ -1,9 +1,9 @@
 # kompact
 ### Hoverable Sidebars for a more minimal discord.
+Hover your mouse over the top left area of the window to view server list and server channels.
 
 ## Installation
 ### Vencord can be found [Here](https://vencord.dev)
-### BetterDiscord can be found [Here](https://betterdiscord.app)
 
 ## Vencord
 
@@ -24,16 +24,3 @@ https://kota.is-a.dev/kompact/collapse.theme.css
 ```
 https://kota.is-a.dev/kompact/collapse.theme.css
 ```
-
-## BetterDiscord
-1. Go to User Settings -> BetterDiscord -> Themes
-2. Click Open Themes Folder
-3. Download the CSS file below
-```
-https://kota.is-a.dev/kompact/collapse.theme.css
-```
-4. Drag the file into that folder.
-
-## Screenshots
-![Hover Preview 1](./preview/hover1.gif)
-![Hover Preview 2](./preview/hover2.gif)

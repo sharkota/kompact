@@ -10,13 +10,38 @@
 */
 
 /* Smooth transitions require hardware acceleration to look good, if you prefer not to use them set "transition-time" var to 0*/
-/* If you wish to swap position of the channels and the servers, replace 0px with none and none with 0px. */
-
-@import url("https://kota.is-a.dev/kompact/collapse.css");
 
 :root{
     --transition-time: 0.3s;
-    --transition-time-long: 1s;
-    --server-position: none;
-    --channel-position: 0px;
+}
+
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > nav{
+    position: absolute;
+    z-index: 12;
+    margin-top: 48px;
+    height: 50px;
+    opacity: 0%;
+    transition-duration: var(--transition-time);
+    transition-property: opacity;
+}
+
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.sidebar_a4d4d9{
+    position: absolute;
+    z-index: 10;
+    margin-left: 72px;
+    height: 100px;
+    opacity: 0%;
+    transition-duration: var(--transition-time);
+    transition-property: opacity;
+}
+
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > nav:hover{
+    height: 100%;
+    opacity: 100%;
+}
+
+#app-mount > div.appAsidePanelWrapper_bd26cc > div.notAppAsidePanel_bd26cc > div.app_bd26cc > div > div.layers_d4b6c5.layers_a01fb1 > div > div > div > div > div.sidebar_a4d4d9:hover{
+    height: 100%;
+    opacity: 100%;
+    margin-left: 0%;
 }
